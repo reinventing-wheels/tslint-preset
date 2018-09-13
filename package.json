@@ -1,0 +1,6 @@
+{
+  "name": "tslint-preset",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "index.js"
+}
